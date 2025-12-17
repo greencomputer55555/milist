@@ -148,7 +148,8 @@ http://172.168.1.5:5004/auto/v5052
 #EXTINF:-1,CARTOON NETWORK
 http://172.168.1.5:5004/auto/v5049
 
-
+#EXTINF:-1,TOONCAST
+http://172.168.1.3:80/play/_wr-DReosc8bjpOFbZrpgiRLJ6Xh8_7thDKJiFqGa98/ts
 
 
 
@@ -233,20 +234,14 @@ http://172.168.1.5:5004/auto/v5064
 #EXTINF:-1,CLARO SPORT TV
 http://172.168.1.3:80/play/_wr-DReosc8bjpOFbZrpgr0-vHaHpcrFpnrxJWntonM/ts
 
-
-
-
-
 #EXTINF:-1,VCLASSIC TV
 http://172.168.1.3:80/play/_wr-DReosc8bjpOFbZrpguGEzh0WcAhxmP_wxTR4bn8/ts
-
 
 #EXTINF:-1,TELERITMO
 http://172.168.1.5:5004/auto/v5070
 
 #EXTINF:-1,TELEMUSICA
 http://172.168.1.5:5004/auto/v5067
-
 
 #EXTINF:-1,TELEHIT
 http://172.168.1.5:5004/auto/v5068
@@ -300,14 +295,6 @@ http://172.168.1.3:80/play/_wr-DReosc8bjpOFbZrpguNN5F8DOK-eYSnDCuyaPaA/ts
 
 #EXTINF:-1,24/7 SHOW LOONEY TOONS
 http://172.168.1.3:80/play/_wr-DReosc8bjpOFbZrpguTcwec8ywsCUeL5RB0xa_U/ts
-
-
-
-
-
-
-
-
 
 
 
