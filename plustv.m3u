@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,LAS ESTRELLAS
-http://172.168.1.3:80/play/_wr-DReosc8bjpOFbZrpgqkk_nDKvc7iyX5Rg4AIYjA/ts
+http://172.168.1.4:5004/auto/v2.1
 
 #EXTINF:-1,LAS ESTRELLAS -2H
 http://172.168.1.5:5004/auto/v5001
@@ -13,7 +13,7 @@ http://172.168.1.5:5004/auto/v5007
 http://172.168.1.4:5004/auto/v1.1
 
 #EXTINF:-1,AZTECA 7
-http://172.168.1.3:80/play/_wr-DReosc8bjpOFbZrpgima3fWhU7mkSi2eaiT8S8k/ts
+http://172.168.1.4:5004/auto/v7.1
 
 
 #EXTINF:-1,CANAL 10
@@ -299,6 +299,7 @@ http://172.168.1.3:80/play/_wr-DReosc8bjpOFbZrpguTcwec8ywsCUeL5RB0xa_U/ts
 
 #EXTINF:-1,24/7 FAMILIA P.LUCHE
 http://172.168.1.3:80/play/_wr-DReosc8bjpOFbZrpgoe8a3FMzxE2fzoBRAm8hLE/ts
+
 
 
 
