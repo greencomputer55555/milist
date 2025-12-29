@@ -234,6 +234,10 @@ http://192.168.18.252:5004/auto/v5058
 #EXTINF:-1,GOLDEN EDGE
 http://192.168.18.252:5004/auto/v5059
 
+#EXTINF:-1,GOLDEN PLUS
+http://192.168.18.250:80/play/_wr-DReosc8bjpOFbZrpgovQwmVpbAKwwGkk_9FPHW0/ts
+
+
 #EXTINF:-1,PARAMOUNT
 http://192.168.18.252:5004/auto/v5069
 
