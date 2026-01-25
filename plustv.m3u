@@ -4,7 +4,7 @@
 http://192.168.18.250:80/play/_wr-DReosc8bjpOFbZrpgn-u8vpErq904YOSrGb-fLk/ts
 
 #EXTINF:-1,LAS ESTRELLAS -2H
-http://192.168.18.252:5004/auto/v5001
+http://192.168.18.252:5004/auto/v5120
 
 #EXTINF:-1,CANAL 5
 http://192.168.18.252:5004/auto/v5007
@@ -12,11 +12,14 @@ http://192.168.18.252:5004/auto/v5007
 #EXTINF:-1,AZTECA ONE
 http://192.168.18.250:80/play/_wr-DReosc8bjpOFbZrpgv7Ha3dqAHgwyOIsvtrBMu8/ts
 
+#EXTINF:-1,AZTECA ONE -2H
+http://192.168.18.252:5004/auto/v5120
+
 #EXTINF:-1,AZTECA 7
 http://192.168.18.250:80/play/_wr-DReosc8bjpOFbZrpgj08Xw2S6nlbyOJX6BKFoQE/ts
 
 #EXTINF:-1,IMAGEN TV
-http://192.168.18.252:5004/auto/v5005
+http://192.168.18.252:5004/auto/v5124
 
 #EXTINF:-1,CANAL 10
 http://192.168.18.252:5004/auto/v5008
@@ -338,6 +341,7 @@ http://192.168.18.250:80/play/_wr-DReosc8bjpOFbZrpgtu7paoU3ueEjZIJCBk-oi4/ts
 
 #EXTINF:-1,24/7 CABALLEROS D. Z. 12 CASAS
 http://192.168.18.250:80/play/_wr-DReosc8bjpOFbZrpgpWe1yeTjWLiBPkwb-IZRIc/ts
+
 
 
 
