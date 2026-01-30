@@ -106,7 +106,7 @@ http://192.168.18.252:5004/auto/v5137
 
 
 #EXTINF:-1,CNN
-http://192.168.18.252:5004/auto/v5141
+http://192.168.18.252:5004/auto/v5138
 
 
 #EXTINF:-1,HISPAN TV
@@ -153,11 +153,9 @@ http://192.168.18.252:5004/auto/v5170
 http://192.168.18.252:5004/auto/v5168
 
 
-#EXTINF:-1,START CHANNEL
-http://192.168.18.250:80/play/_wr-DReosc8bjpOFbZrpgovQwmVpbAKwwGkk_9FPHW0/ts
 
 #EXTINF:-1,HBO XTREME
-http://192.168.18.252:5004/auto/v5028
+http://192.168.18.252:5004/auto/v5147
 
 #EXTINF:-1,HBO PLUS
 http://192.168.18.250:80/play/_wr-DReosc8bjpOFbZrpgjgP4AtyYd6bTPzDVuaxc_k/ts
@@ -199,8 +197,8 @@ http://192.168.18.252:5004/auto/v5154
 #EXTINF:-1,TNT SERIES
 http://192.168.18.252:5004/auto/v5158
 
-#EXTINF:-1,UNIVERSAL TV P
-http://192.168.18.252:5004/auto/v5036
+#EXTINF:-1,UNIVERSAL TV 
+http://192.168.18.252:5004/auto/v5155
 
 #EXTINF:-1,PANICO
 http://192.168.18.252:5004/auto/v5156
@@ -338,6 +336,18 @@ http://192.168.18.250:80/play/_wr-DReosc8bjpOFbZrpgtu7paoU3ueEjZIJCBk-oi4/ts
 
 #EXTINF:-1,24/7 CABALLEROS D. Z. 12 CASAS
 http://192.168.18.250:80/play/_wr-DReosc8bjpOFbZrpgpWe1yeTjWLiBPkwb-IZRIc/ts
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
