@@ -211,6 +211,8 @@ http://192.168.18.251:5004/auto/v5037
 #EXTINF:-1,TUDN
 http://192.168.18.251:5004/auto/v5054
 
+#EXTINF:-1,FORMULA 1
+http://192.168.18.250:80/play/_wr-DReosc8bjpOFbZrpgneUyewmUrVrjQfWOTeKJ2s/ts
 
 #EXTINF:-1,ESPN
 http://192.168.18.251:5004/auto/v5055
