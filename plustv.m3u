@@ -145,14 +145,14 @@ http://192.168.18.252:5004/auto/v5048
 http://192.168.18.251:5004/auto/v5049
 
 #EXTINF:-1,HBO PLUS
-http://192.168.18.252:5004/auto/v5109
+http://192.168.18.250:80/play/_wr-DReosc8bjpOFbZrpghGyz14JXFqt4uzRLxhq8qg/ts
 
 
 #EXTINF:-1,HBO XTREME
 http://192.168.18.251:5004/auto/v5028
 
 #EXTINF:-1,HBO FAMILY
-http://192.168.18.252:5004/auto/v5108
+http://192.168.18.250:80/play/_wr-DReosc8bjpOFbZrpgul01P8J3unyF_SICH05d0E/ts
 
 
 #EXTINF:-1,GOLDEN
@@ -162,10 +162,10 @@ http://192.168.18.251:5004/auto/v5032
 http://192.168.18.251:5004/auto/v5033
 
 #EXTINF:-1,STAR CHANNEL
-http://192.168.18.252:5004/auto/v5063
+http://192.168.18.250:80/play/_wr-DReosc8bjpOFbZrpgmFX5zYg5qDLF2u_C81KUgU/ts
 
 #EXTINF:-1,MC
-http://192.168.18.252:5004/auto/v5055
+http://192.168.18.250:80/play/_wr-DReosc8bjpOFbZrpgpWWzcS_8UcWuKw26Es6rCY/ts
 
 #EXTINF:-1,SPACE
 http://192.168.18.251:5004/auto/v5030
