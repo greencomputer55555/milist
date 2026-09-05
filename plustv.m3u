@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 channel-id="5000" channel-number="5000" tvg-name="Unknown",5000 Unknown
+http://192.168.70.254:5004/auto/v5000
 #EXTINF:-1 channel-id="5001" channel-number="5001" tvg-name="Unknown",5001 Unknown
 http://192.168.70.254:5004/auto/v5001
 #EXTINF:-1 channel-id="5002" channel-number="5002" tvg-name="Unknown",5002 Unknown
@@ -165,93 +167,6 @@ http://192.168.70.254:5004/auto/v5081
 http://192.168.70.254:5004/auto/v5082
 #EXTINF:-1 channel-id="5083" channel-number="5083" tvg-name="Unknown",5083 Unknown
 http://192.168.70.254:5004/auto/v5083
-#EXTINF:-1 channel-id="5084" channel-number="5084" tvg-name="Unknown",5084 Unknown
-http://192.168.70.254:5004/auto/v5084
-#EXTINF:-1 channel-id="5085" channel-number="5085" tvg-name="Unknown",5085 Unknown
-http://192.168.70.254:5004/auto/v5085
-#EXTINF:-1 channel-id="5086" channel-number="5086" tvg-name="Unknown",5086 Unknown
-http://192.168.70.254:5004/auto/v5086
-#EXTINF:-1 channel-id="5087" channel-number="5087" tvg-name="Unknown",5087 Unknown
-http://192.168.70.254:5004/auto/v5087
-#EXTINF:-1 channel-id="5088" channel-number="5088" tvg-name="Unknown",5088 Unknown
-http://192.168.70.254:5004/auto/v5088
-#EXTINF:-1 channel-id="5089" channel-number="5089" tvg-name="Unknown",5089 Unknown
-http://192.168.70.254:5004/auto/v5089
-#EXTINF:-1 channel-id="5090" channel-number="5090" tvg-name="Unknown",5090 Unknown
-http://192.168.70.254:5004/auto/v5090
-#EXTINF:-1 channel-id="5091" channel-number="5091" tvg-name="Unknown",5091 Unknown
-http://192.168.70.254:5004/auto/v5091
-#EXTINF:-1 channel-id="5092" channel-number="5092" tvg-name="Unknown",5092 Unknown
-http://192.168.70.254:5004/auto/v5092
-#EXTINF:-1 channel-id="5093" channel-number="5093" tvg-name="Unknown",5093 Unknown
-http://192.168.70.254:5004/auto/v5093
-#EXTINF:-1 channel-id="5094" channel-number="5094" tvg-name="Unknown",5094 Unknown
-http://192.168.70.254:5004/auto/v5094
-#EXTINF:-1 channel-id="5095" channel-number="5095" tvg-name="Unknown",5095 Unknown
-http://192.168.70.254:5004/auto/v5095
-#EXTINF:-1 channel-id="5096" channel-number="5096" tvg-name="Unknown",5096 Unknown
-http://192.168.70.254:5004/auto/v5096
-#EXTINF:-1 channel-id="5097" channel-number="5097" tvg-name="Unknown",5097 Unknown
-http://192.168.70.254:5004/auto/v5097
-#EXTINF:-1 channel-id="5098" channel-number="5098" tvg-name="Unknown",5098 Unknown
-http://192.168.70.254:5004/auto/v5098
-#EXTINF:-1 channel-id="5099" channel-number="5099" tvg-name="Unknown",5099 Unknown
-http://192.168.70.254:5004/auto/v5099
-#EXTINF:-1 channel-id="5100" channel-number="5100" tvg-name="Unknown",5100 Unknown
-http://192.168.70.254:5004/auto/v5100
-#EXTINF:-1 channel-id="5101" channel-number="5101" tvg-name="Unknown",5101 Unknown
-http://192.168.70.254:5004/auto/v5101
-#EXTINF:-1 channel-id="5102" channel-number="5102" tvg-name="Unknown",5102 Unknown
-http://192.168.70.254:5004/auto/v5102
-#EXTINF:-1 channel-id="5103" channel-number="5103" tvg-name="Unknown",5103 Unknown
-http://192.168.70.254:5004/auto/v5103
-#EXTINF:-1 channel-id="5104" channel-number="5104" tvg-name="Unknown",5104 Unknown
-http://192.168.70.254:5004/auto/v5104
-#EXTINF:-1 channel-id="5105" channel-number="5105" tvg-name="Unknown",5105 Unknown
-http://192.168.70.254:5004/auto/v5105
-#EXTINF:-1 channel-id="5106" channel-number="5106" tvg-name="Unknown",5106 Unknown
-http://192.168.70.254:5004/auto/v5106
-#EXTINF:-1 channel-id="5107" channel-number="5107" tvg-name="Unknown",5107 Unknown
-http://192.168.70.254:5004/auto/v5107
-#EXTINF:-1 channel-id="5108" channel-number="5108" tvg-name="Unknown",5108 Unknown
-http://192.168.70.254:5004/auto/v5108
-#EXTINF:-1 channel-id="5109" channel-number="5109" tvg-name="Unknown",5109 Unknown
-http://192.168.70.254:5004/auto/v5109
-#EXTINF:-1 channel-id="5110" channel-number="5110" tvg-name="Unknown",5110 Unknown
-http://192.168.70.254:5004/auto/v5110
-#EXTINF:-1 channel-id="5111" channel-number="5111" tvg-name="Unknown",5111 Unknown
-http://192.168.70.254:5004/auto/v5111
-#EXTINF:-1 channel-id="5112" channel-number="5112" tvg-name="Unknown",5112 Unknown
-http://192.168.70.254:5004/auto/v5112
-#EXTINF:-1 channel-id="5113" channel-number="5113" tvg-name="Unknown",5113 Unknown
-http://192.168.70.254:5004/auto/v5113
-#EXTINF:-1 channel-id="5114" channel-number="5114" tvg-name="Unknown",5114 Unknown
-http://192.168.70.254:5004/auto/v5114
-#EXTINF:-1 channel-id="5115" channel-number="5115" tvg-name="Unknown",5115 Unknown
-http://192.168.70.254:5004/auto/v5115
-#EXTINF:-1 channel-id="5116" channel-number="5116" tvg-name="Unknown",5116 Unknown
-http://192.168.70.254:5004/auto/v5116
-#EXTINF:-1 channel-id="5117" channel-number="5117" tvg-name="Unknown",5117 Unknown
-http://192.168.70.254:5004/auto/v5117
-#EXTINF:-1 channel-id="5118" channel-number="5118" tvg-name="Unknown",5118 Unknown
-http://192.168.70.254:5004/auto/v5118
-#EXTINF:-1 channel-id="5203" channel-number="5203" tvg-name="Unknown",5203 Unknown
-http://192.168.70.254:5004/auto/v5203
-#EXTINF:-1 channel-id="5204" channel-number="5204" tvg-name="Unknown",5204 Unknown
-http://192.168.70.254:5004/auto/v5204
-#EXTINF:-1 channel-id="5205" channel-number="5205" tvg-name="Unknown",5205 Unknown
-http://192.168.70.254:5004/auto/v5205
-#EXTINF:-1 channel-id="5206" channel-number="5206" tvg-name="Unknown",5206 Unknown
-http://192.168.70.254:5004/auto/v5206
-#EXTINF:-1 channel-id="5207" channel-number="5207" tvg-name="Unknown",5207 Unknown
-http://192.168.70.254:5004/auto/v5207
-#EXTINF:-1 channel-id="5208" channel-number="5208" tvg-name="Unknown",5208 Unknown
-http://192.168.70.254:5004/auto/v5208
-#EXTINF:-1 channel-id="5209" channel-number="5209" tvg-name="Unknown",5209 Unknown
-http://192.168.70.254:5004/auto/v5209
-#EXTINF:-1 channel-id="5210" channel-number="5210" tvg-name="Unknown",5210 Unknown
-http://192.168.70.254:5004/auto/v5210
-
 
 
 
