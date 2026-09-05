@@ -1,295 +1,256 @@
 #EXTM3U
-
-#EXTINF:-1,LAS ESTRELLAS
-http://192.168.18.252:5004/auto/v5119
-
-#EXTINF:-1,LAS ESTRELLAS -2H
-http://192.168.18.252:5004/auto/v5120
-
-#EXTINF:-1,CANAL 5
-http://192.168.18.252:5004/auto/v5126
-
-#EXTINF:-1,AZTECA ONE
-http://192.168.18.252:5004/auto/v5121
-
-#EXTINF:-1,AZTECA ONE -2h
-http://192.168.18.252:5004/auto/v5122
-
-#EXTINF:-1,AZTECA 7
-http://192.168.18.252:5004/auto/v5123
-
-#EXTINF:-1,IMAGEN TV
-http://192.168.18.252:5004/auto/v5124
-
-#EXTINF:-1,CANAL 10
-http://192.168.18.252:5004/auto/v5127
-
-
-#EXTINF:-1,GOURMET
-http://192.168.18.252:5004/auto/v5197
-
-#EXTINF:-1,CANAL 11
-http://192.168.18.252:5004/auto/v5128
-
-
-#EXTINF:-1,UNICABLE
-http://192.168.18.252:5004/auto/v5130
-
-#EXTINF:-1,COMEDY CENTRAL
-http://192.168.18.252:5004/auto/v5131
-
-#EXTINF:-1,DISTRITO COMEDIA
-http://192.168.18.252:5004/auto/v5132
-
-#EXTINF:-1,AZ CLIC
-http://192.168.18.252:5004/auto/v5133
-
-#EXTINF:-1,AZ CORAZON
-http://192.168.18.252:5004/auto/v5143
-
-#EXTINF:-1,KNAL D DRAMA
-http://192.168.18.252:5004/auto/v5143
-
-
-#EXTINF:-1,PASIONES
-http://192.168.18.252:5004/auto/v5145
-
-#EXTINF:-1,TLNOVELAS
-http://192.168.18.252:5004/auto/v5146
-
-
-#EXTINF:-1,CANAL NUEVE
-http://192.168.18.252:5004/auto/v5125
-
-
-#EXTINF:-1,CANAL 6
-http://192.168.18.252:5004/auto/v5140
-
-
-#EXTINF:-1,NMAS NOTICIAS
-http://192.168.18.252:5004/auto/v5136
-
-#EXTINF:-1,MILENIO NOTICIAS
-http://192.168.18.252:5004/auto/v5137
-
-#EXTINF:-1,MEGANOTICIAS
-http://192.168.18.251:5004/auto/v5010
-
-#EXTINF:-1,CNN
-http://192.168.18.252:5004/auto/v5138
-
-#EXTINF:-1,ADN NOTICIAS
-http://192.168.18.252:5004/auto/v5135
-
-
-#EXTINF:-1,D PELICULA
-http://192.168.18.252:5004/auto/v5160
-
-#EXTINF:-1,CINEMA AZTECA
-http://192.168.18.252:5004/auto/v5161
-
-
-#EXTINF:-1,CINE LATINO
-http://192.168.18.252:5004/auto/v5163
-
-#EXTINF:-1,CINE MEXICANO
-http://192.168.18.252:5004/auto/v5164
-
-
-#EXTINF:-1,BITME
-http://192.168.18.252:5004/auto/v5172
-
-
-#EXTINF:-1,NICK
-http://192.168.18.252:5004/auto/v5166
-
-
-#EXTINF:-1,NICK JR
-http://192.168.18.252:5004/auto/v5167
-
-#EXTINF:-1,DISNEY CHANNEL
-http://192.168.18.252:5004/auto/v5165
-
-
-#EXTINF:-1,ONCE NIÑOS
-http://192.168.18.252:5004/auto/v5169
-
-
-#EXTINF:-1,CARTOON NETWORK
-http://192.168.18.252:5004/auto/v5168
-
-#EXTINF:-1,HBO XTREME
-http://192.168.18.252:5004/auto/v5147
-
-#EXTINF:-1,ONCE TV
-http://192.168.18.252:5004/auto/v5170
-
-
-#EXTINF:-1,GOLDEN
-http://192.168.18.252:5004/auto/v5151
-
-#EXTINF:-1,GOLDEN EDGE
-http://192.168.18.252:5004/auto/v5152
-
-
-#EXTINF:-1,SPACE
-http://192.168.18.252:5004/auto/v5149
-
-
-#EXTINF:-1,AMC
-http://192.168.18.252:5004/auto/v5157
-
-#EXTINF:-1,AMC SERIES
-http://192.168.18.252:5004/auto/v5150
-
-#EXTINF:-1,AXN
-http://192.168.18.252:5004/auto/v5153
-
-#EXTINF:-1,TNT
-http://192.168.18.252:5004/auto/v5154
-
-#EXTINF:-1,TNT SERIES
-http://192.168.18.252:5004/auto/v5158
-
-#EXTINF:-1,UNIVERSAL TV
-http://192.168.18.252:5004/auto/v5155
-
-#EXTINF:-1,PANICO
-http://192.168.18.252:5004/auto/v5156
-
-#EXTINF:-1,CINEMA PLATINO
-http://192.168.18.252:5004/auto/v5158
-
-#EXTINF:-1,SONY CHANNEL
-http://192.168.18.252:5004/auto/v5162
-
-#EXTINF:-1,TUDN
-http://192.168.18.252:5004/auto/v5173
-
-
-#EXTINF:-1,ESPN
-http://192.168.18.252:5004/auto/v5174
-
-#EXTINF:-1,FOX+
-http://192.168.18.252:5004/auto/v5175
-
-#EXTINF:-1,FOX SPORT 3
-http://192.168.18.252:5004/auto/v517
-
-#EXTINF:-1,FOX SPORT PREMIUM
-http://192.168.18.252:5004/auto/v5178
-
-#EXTINF:-1,AYM SPORT
-http://192.168.18.252:5004/auto/v5176
-
-#EXTINF:-1,ADRENALINA SPORT
-http://192.168.18.252:5004/auto/v5180
-
-#EXTINF:-1,TVC DEPORTES
-http://192.168.18.252:5004/auto/v5181
-
-#EXTINF:-1,TVC DEPORTES 2
-http://192.168.18.252:5004/auto/v5182
-
-#EXTINF:-1,AZTECA DEPORTES
-http://192.168.18.252:5004/auto/v5183
-
-
-#EXTINF:-1,TELERITMO
-http://192.168.18.251:5004/auto/v5070
-
-#EXTINF:-1,TELEMUSICA
-http://192.168.18.251:5004/auto/v5067
-
-#EXTINF:-1,TELEHIT
-http://192.168.18.251:5004/auto/v5068
-
-#EXTINF:-1,BANDAMAX
-http://192.168.18.251:5004/auto/v5065
-
-
-#EXTINF:-1,MTV
-http://192.168.18.251:5004/auto/v5069
-
-#EXTINF:-1,VIDEO ROLA
-http://192.168.18.251:5004/auto/v5066
-
-#EXTINF:-1,ANIMAL PLANET
-http://192.168.18.251:5004/auto/v5073
-
-#EXTINF:-1,DISCOVERY ID
-http://192.168.18.251:5004/auto/v5074
-
-
-#EXTINF:-1,DISCOVERY CHANNEL
-http://192.168.18.251:5004/auto/v5077
-
-#EXTINF:-1,HISTORY
-http://192.168.18.251:5004/auto/v5071
-
-#EXTINF:-1,LOVE NATURE
-http://192.168.18.251:5004/auto/v5072
-
-#EXTINF:-1,H&H
-http://192.168.18.251:5004/auto/v5075
-
-#EXTINF:-1,NATGEO
-http://192.168.18.251:5004/auto/v5076
-
-#EXTINF:-1,MARIA VISION
-http://192.168.18.251:5004/auto/v5079
-
-#EXTINF:-1,ESNE SEMBRADOR
-http://192.168.18.251:5004/auto/v5082
-
-#EXTINF:-1,3ABN
-http://192.168.18.251:5004/auto/v5080
-
-#EXTINF:-1,ENLACE
-http://192.168.18.251:5004/auto/v5081
-
-#EXTINF:-1,24/7 LOONEY TOONS 
-http://172.168.1.3:80/play/_wr-DReosc8bjpOFbZrpguNN5F8DOK-eYSnDCuyaPaA/ts
-
-#EXTINF:-1,24/7 SHOW LOONEY TOONS
-http://172.168.1.3:80/play/_wr-DReosc8bjpOFbZrpguTcwec8ywsCUeL5RB0xa_U/ts
-
-#EXTINF:-1,24/7 FAMILIA P.LUCHE
-http://172.168.1.3:80/play/_wr-DReosc8bjpOFbZrpgoe8a3FMzxE2fzoBRAm8hLE/ts
-
-#EXTINF:-1,24/7 EL CHAVO DEL 8
-http://192.168.18.250:80/play/_wr-DReosc8bjpOFbZrpgu3j7FXWYBUdJgcev4uPrYU/ts
-
-#EXTINF:-1,24/7 DBZ SAGA SAIYAJIN
-http://172.168.1.3:80/play/_wr-DReosc8bjpOFbZrpglgQvSKavqrwSyNJYUvTPvM/ts
-
-#EXTINF:-1,24/7 DBZ SAGA NAMEKUSEI
-http://172.168.1.3:80/play/_wr-DReosc8bjpOFbZrpgtBzmrTQDpvi29mLoJtdgdw/ts
-
-#EXTINF:-1,24/7 DBZ SAGA FREEZER
-http://172.168.1.3:80/play/_wr-DReosc8bjpOFbZrpgpGZ1cUrWgimybIPG-YbFtw/ts
-
-#EXTINF:-1,24/7 DBZ SAGA ANDROIDES
-http://172.168.1.3:80/play/_wr-DReosc8bjpOFbZrpgkexBUrigCf3iK2LZ6XoZV4/ts
-
-#EXTINF:-1,24/7 DBZ SAGA CELL
-http://172.168.1.3:80/play/_wr-DReosc8bjpOFbZrpgnI-fUtoC0ARieFSoaVM5PE/ts
-
-#EXTINF:-1,24/7 DBZ SAGA TORNEO DE OTRO MUNDO
-http://172.168.1.3:80/play/_wr-DReosc8bjpOFbZrpguGFlt4WAL-yMrBSWv_HtTc/ts
-
-
-#EXTINF:-1,24/7 DBZ SAGA MAGINBOO
-http://172.168.1.3:80/play/_wr-DReosc8bjpOFbZrpghgYt_lL5l4BGAvNldRLWNk/ts
-
-
-#EXTINF:-1,24/7 DRAGON BALL
-http://192.168.18.250:80/play/_wr-DReosc8bjpOFbZrpgtu7paoU3ueEjZIJCBk-oi4/ts
-
-
-#EXTINF:-1,24/7 CABALLEROS D. Z. 12 CASAS
-http://192.168.18.250:80/play/_wr-DReosc8bjpOFbZrpgpWe1yeTjWLiBPkwb-IZRIc/ts
-
+#EXTINF:-1 channel-id="5001" channel-number="5001" tvg-name="Unknown",5001 Unknown
+http://192.168.70.254:5004/auto/v5001
+#EXTINF:-1 channel-id="5002" channel-number="5002" tvg-name="Unknown",5002 Unknown
+http://192.168.70.254:5004/auto/v5002
+#EXTINF:-1 channel-id="5003" channel-number="5003" tvg-name="Unknown",5003 Unknown
+http://192.168.70.254:5004/auto/v5003
+#EXTINF:-1 channel-id="5004" channel-number="5004" tvg-name="Unknown",5004 Unknown
+http://192.168.70.254:5004/auto/v5004
+#EXTINF:-1 channel-id="5005" channel-number="5005" tvg-name="Unknown",5005 Unknown
+http://192.168.70.254:5004/auto/v5005
+#EXTINF:-1 channel-id="5006" channel-number="5006" tvg-name="Unknown",5006 Unknown
+http://192.168.70.254:5004/auto/v5006
+#EXTINF:-1 channel-id="5007" channel-number="5007" tvg-name="Unknown",5007 Unknown
+http://192.168.70.254:5004/auto/v5007
+#EXTINF:-1 channel-id="5008" channel-number="5008" tvg-name="Unknown",5008 Unknown
+http://192.168.70.254:5004/auto/v5008
+#EXTINF:-1 channel-id="5009" channel-number="5009" tvg-name="Unknown",5009 Unknown
+http://192.168.70.254:5004/auto/v5009
+#EXTINF:-1 channel-id="5010" channel-number="5010" tvg-name="Unknown",5010 Unknown
+http://192.168.70.254:5004/auto/v5010
+#EXTINF:-1 channel-id="5011" channel-number="5011" tvg-name="Unknown",5011 Unknown
+http://192.168.70.254:5004/auto/v5011
+#EXTINF:-1 channel-id="5012" channel-number="5012" tvg-name="Unknown",5012 Unknown
+http://192.168.70.254:5004/auto/v5012
+#EXTINF:-1 channel-id="5013" channel-number="5013" tvg-name="Unknown",5013 Unknown
+http://192.168.70.254:5004/auto/v5013
+#EXTINF:-1 channel-id="5014" channel-number="5014" tvg-name="Unknown",5014 Unknown
+http://192.168.70.254:5004/auto/v5014
+#EXTINF:-1 channel-id="5015" channel-number="5015" tvg-name="Unknown",5015 Unknown
+http://192.168.70.254:5004/auto/v5015
+#EXTINF:-1 channel-id="5016" channel-number="5016" tvg-name="Unknown",5016 Unknown
+http://192.168.70.254:5004/auto/v5016
+#EXTINF:-1 channel-id="5017" channel-number="5017" tvg-name="Unknown",5017 Unknown
+http://192.168.70.254:5004/auto/v5017
+#EXTINF:-1 channel-id="5018" channel-number="5018" tvg-name="Unknown",5018 Unknown
+http://192.168.70.254:5004/auto/v5018
+#EXTINF:-1 channel-id="5019" channel-number="5019" tvg-name="Unknown",5019 Unknown
+http://192.168.70.254:5004/auto/v5019
+#EXTINF:-1 channel-id="5020" channel-number="5020" tvg-name="Unknown",5020 Unknown
+http://192.168.70.254:5004/auto/v5020
+#EXTINF:-1 channel-id="5021" channel-number="5021" tvg-name="Unknown",5021 Unknown
+http://192.168.70.254:5004/auto/v5021
+#EXTINF:-1 channel-id="5022" channel-number="5022" tvg-name="Unknown",5022 Unknown
+http://192.168.70.254:5004/auto/v5022
+#EXTINF:-1 channel-id="5023" channel-number="5023" tvg-name="Unknown",5023 Unknown
+http://192.168.70.254:5004/auto/v5023
+#EXTINF:-1 channel-id="5024" channel-number="5024" tvg-name="Unknown",5024 Unknown
+http://192.168.70.254:5004/auto/v5024
+#EXTINF:-1 channel-id="5025" channel-number="5025" tvg-name="Unknown",5025 Unknown
+http://192.168.70.254:5004/auto/v5025
+#EXTINF:-1 channel-id="5026" channel-number="5026" tvg-name="Unknown",5026 Unknown
+http://192.168.70.254:5004/auto/v5026
+#EXTINF:-1 channel-id="5027" channel-number="5027" tvg-name="Unknown",5027 Unknown
+http://192.168.70.254:5004/auto/v5027
+#EXTINF:-1 channel-id="5028" channel-number="5028" tvg-name="Unknown",5028 Unknown
+http://192.168.70.254:5004/auto/v5028
+#EXTINF:-1 channel-id="5029" channel-number="5029" tvg-name="Unknown",5029 Unknown
+http://192.168.70.254:5004/auto/v5029
+#EXTINF:-1 channel-id="5030" channel-number="5030" tvg-name="Unknown",5030 Unknown
+http://192.168.70.254:5004/auto/v5030
+#EXTINF:-1 channel-id="5031" channel-number="5031" tvg-name="Unknown",5031 Unknown
+http://192.168.70.254:5004/auto/v5031
+#EXTINF:-1 channel-id="5032" channel-number="5032" tvg-name="Unknown",5032 Unknown
+http://192.168.70.254:5004/auto/v5032
+#EXTINF:-1 channel-id="5033" channel-number="5033" tvg-name="Unknown",5033 Unknown
+http://192.168.70.254:5004/auto/v5033
+#EXTINF:-1 channel-id="5034" channel-number="5034" tvg-name="Unknown",5034 Unknown
+http://192.168.70.254:5004/auto/v5034
+#EXTINF:-1 channel-id="5035" channel-number="5035" tvg-name="Unknown",5035 Unknown
+http://192.168.70.254:5004/auto/v5035
+#EXTINF:-1 channel-id="5036" channel-number="5036" tvg-name="Unknown",5036 Unknown
+http://192.168.70.254:5004/auto/v5036
+#EXTINF:-1 channel-id="5037" channel-number="5037" tvg-name="Unknown",5037 Unknown
+http://192.168.70.254:5004/auto/v5037
+#EXTINF:-1 channel-id="5038" channel-number="5038" tvg-name="Unknown",5038 Unknown
+http://192.168.70.254:5004/auto/v5038
+#EXTINF:-1 channel-id="5039" channel-number="5039" tvg-name="Unknown",5039 Unknown
+http://192.168.70.254:5004/auto/v5039
+#EXTINF:-1 channel-id="5040" channel-number="5040" tvg-name="Unknown",5040 Unknown
+http://192.168.70.254:5004/auto/v5040
+#EXTINF:-1 channel-id="5041" channel-number="5041" tvg-name="Unknown",5041 Unknown
+http://192.168.70.254:5004/auto/v5041
+#EXTINF:-1 channel-id="5042" channel-number="5042" tvg-name="Unknown",5042 Unknown
+http://192.168.70.254:5004/auto/v5042
+#EXTINF:-1 channel-id="5043" channel-number="5043" tvg-name="Unknown",5043 Unknown
+http://192.168.70.254:5004/auto/v5043
+#EXTINF:-1 channel-id="5044" channel-number="5044" tvg-name="Unknown",5044 Unknown
+http://192.168.70.254:5004/auto/v5044
+#EXTINF:-1 channel-id="5045" channel-number="5045" tvg-name="Unknown",5045 Unknown
+http://192.168.70.254:5004/auto/v5045
+#EXTINF:-1 channel-id="5046" channel-number="5046" tvg-name="Unknown",5046 Unknown
+http://192.168.70.254:5004/auto/v5046
+#EXTINF:-1 channel-id="5047" channel-number="5047" tvg-name="Unknown",5047 Unknown
+http://192.168.70.254:5004/auto/v5047
+#EXTINF:-1 channel-id="5048" channel-number="5048" tvg-name="Unknown",5048 Unknown
+http://192.168.70.254:5004/auto/v5048
+#EXTINF:-1 channel-id="5049" channel-number="5049" tvg-name="Unknown",5049 Unknown
+http://192.168.70.254:5004/auto/v5049
+#EXTINF:-1 channel-id="5050" channel-number="5050" tvg-name="Unknown",5050 Unknown
+http://192.168.70.254:5004/auto/v5050
+#EXTINF:-1 channel-id="5051" channel-number="5051" tvg-name="Unknown",5051 Unknown
+http://192.168.70.254:5004/auto/v5051
+#EXTINF:-1 channel-id="5052" channel-number="5052" tvg-name="Unknown",5052 Unknown
+http://192.168.70.254:5004/auto/v5052
+#EXTINF:-1 channel-id="5053" channel-number="5053" tvg-name="Unknown",5053 Unknown
+http://192.168.70.254:5004/auto/v5053
+#EXTINF:-1 channel-id="5054" channel-number="5054" tvg-name="Unknown",5054 Unknown
+http://192.168.70.254:5004/auto/v5054
+#EXTINF:-1 channel-id="5055" channel-number="5055" tvg-name="Unknown",5055 Unknown
+http://192.168.70.254:5004/auto/v5055
+#EXTINF:-1 channel-id="5056" channel-number="5056" tvg-name="Unknown",5056 Unknown
+http://192.168.70.254:5004/auto/v5056
+#EXTINF:-1 channel-id="5057" channel-number="5057" tvg-name="Unknown",5057 Unknown
+http://192.168.70.254:5004/auto/v5057
+#EXTINF:-1 channel-id="5058" channel-number="5058" tvg-name="Unknown",5058 Unknown
+http://192.168.70.254:5004/auto/v5058
+#EXTINF:-1 channel-id="5059" channel-number="5059" tvg-name="Unknown",5059 Unknown
+http://192.168.70.254:5004/auto/v5059
+#EXTINF:-1 channel-id="5060" channel-number="5060" tvg-name="Unknown",5060 Unknown
+http://192.168.70.254:5004/auto/v5060
+#EXTINF:-1 channel-id="5061" channel-number="5061" tvg-name="Unknown",5061 Unknown
+http://192.168.70.254:5004/auto/v5061
+#EXTINF:-1 channel-id="5062" channel-number="5062" tvg-name="Unknown",5062 Unknown
+http://192.168.70.254:5004/auto/v5062
+#EXTINF:-1 channel-id="5063" channel-number="5063" tvg-name="Unknown",5063 Unknown
+http://192.168.70.254:5004/auto/v5063
+#EXTINF:-1 channel-id="5064" channel-number="5064" tvg-name="Unknown",5064 Unknown
+http://192.168.70.254:5004/auto/v5064
+#EXTINF:-1 channel-id="5065" channel-number="5065" tvg-name="Unknown",5065 Unknown
+http://192.168.70.254:5004/auto/v5065
+#EXTINF:-1 channel-id="5066" channel-number="5066" tvg-name="Unknown",5066 Unknown
+http://192.168.70.254:5004/auto/v5066
+#EXTINF:-1 channel-id="5067" channel-number="5067" tvg-name="Unknown",5067 Unknown
+http://192.168.70.254:5004/auto/v5067
+#EXTINF:-1 channel-id="5068" channel-number="5068" tvg-name="Unknown",5068 Unknown
+http://192.168.70.254:5004/auto/v5068
+#EXTINF:-1 channel-id="5069" channel-number="5069" tvg-name="Unknown",5069 Unknown
+http://192.168.70.254:5004/auto/v5069
+#EXTINF:-1 channel-id="5070" channel-number="5070" tvg-name="Unknown",5070 Unknown
+http://192.168.70.254:5004/auto/v5070
+#EXTINF:-1 channel-id="5071" channel-number="5071" tvg-name="Unknown",5071 Unknown
+http://192.168.70.254:5004/auto/v5071
+#EXTINF:-1 channel-id="5072" channel-number="5072" tvg-name="Unknown",5072 Unknown
+http://192.168.70.254:5004/auto/v5072
+#EXTINF:-1 channel-id="5073" channel-number="5073" tvg-name="Unknown",5073 Unknown
+http://192.168.70.254:5004/auto/v5073
+#EXTINF:-1 channel-id="5074" channel-number="5074" tvg-name="Unknown",5074 Unknown
+http://192.168.70.254:5004/auto/v5074
+#EXTINF:-1 channel-id="5075" channel-number="5075" tvg-name="Unknown",5075 Unknown
+http://192.168.70.254:5004/auto/v5075
+#EXTINF:-1 channel-id="5076" channel-number="5076" tvg-name="Unknown",5076 Unknown
+http://192.168.70.254:5004/auto/v5076
+#EXTINF:-1 channel-id="5077" channel-number="5077" tvg-name="Unknown",5077 Unknown
+http://192.168.70.254:5004/auto/v5077
+#EXTINF:-1 channel-id="5078" channel-number="5078" tvg-name="Unknown",5078 Unknown
+http://192.168.70.254:5004/auto/v5078
+#EXTINF:-1 channel-id="5079" channel-number="5079" tvg-name="Unknown",5079 Unknown
+http://192.168.70.254:5004/auto/v5079
+#EXTINF:-1 channel-id="5080" channel-number="5080" tvg-name="Unknown",5080 Unknown
+http://192.168.70.254:5004/auto/v5080
+#EXTINF:-1 channel-id="5081" channel-number="5081" tvg-name="Unknown",5081 Unknown
+http://192.168.70.254:5004/auto/v5081
+#EXTINF:-1 channel-id="5082" channel-number="5082" tvg-name="Unknown",5082 Unknown
+http://192.168.70.254:5004/auto/v5082
+#EXTINF:-1 channel-id="5083" channel-number="5083" tvg-name="Unknown",5083 Unknown
+http://192.168.70.254:5004/auto/v5083
+#EXTINF:-1 channel-id="5084" channel-number="5084" tvg-name="Unknown",5084 Unknown
+http://192.168.70.254:5004/auto/v5084
+#EXTINF:-1 channel-id="5085" channel-number="5085" tvg-name="Unknown",5085 Unknown
+http://192.168.70.254:5004/auto/v5085
+#EXTINF:-1 channel-id="5086" channel-number="5086" tvg-name="Unknown",5086 Unknown
+http://192.168.70.254:5004/auto/v5086
+#EXTINF:-1 channel-id="5087" channel-number="5087" tvg-name="Unknown",5087 Unknown
+http://192.168.70.254:5004/auto/v5087
+#EXTINF:-1 channel-id="5088" channel-number="5088" tvg-name="Unknown",5088 Unknown
+http://192.168.70.254:5004/auto/v5088
+#EXTINF:-1 channel-id="5089" channel-number="5089" tvg-name="Unknown",5089 Unknown
+http://192.168.70.254:5004/auto/v5089
+#EXTINF:-1 channel-id="5090" channel-number="5090" tvg-name="Unknown",5090 Unknown
+http://192.168.70.254:5004/auto/v5090
+#EXTINF:-1 channel-id="5091" channel-number="5091" tvg-name="Unknown",5091 Unknown
+http://192.168.70.254:5004/auto/v5091
+#EXTINF:-1 channel-id="5092" channel-number="5092" tvg-name="Unknown",5092 Unknown
+http://192.168.70.254:5004/auto/v5092
+#EXTINF:-1 channel-id="5093" channel-number="5093" tvg-name="Unknown",5093 Unknown
+http://192.168.70.254:5004/auto/v5093
+#EXTINF:-1 channel-id="5094" channel-number="5094" tvg-name="Unknown",5094 Unknown
+http://192.168.70.254:5004/auto/v5094
+#EXTINF:-1 channel-id="5095" channel-number="5095" tvg-name="Unknown",5095 Unknown
+http://192.168.70.254:5004/auto/v5095
+#EXTINF:-1 channel-id="5096" channel-number="5096" tvg-name="Unknown",5096 Unknown
+http://192.168.70.254:5004/auto/v5096
+#EXTINF:-1 channel-id="5097" channel-number="5097" tvg-name="Unknown",5097 Unknown
+http://192.168.70.254:5004/auto/v5097
+#EXTINF:-1 channel-id="5098" channel-number="5098" tvg-name="Unknown",5098 Unknown
+http://192.168.70.254:5004/auto/v5098
+#EXTINF:-1 channel-id="5099" channel-number="5099" tvg-name="Unknown",5099 Unknown
+http://192.168.70.254:5004/auto/v5099
+#EXTINF:-1 channel-id="5100" channel-number="5100" tvg-name="Unknown",5100 Unknown
+http://192.168.70.254:5004/auto/v5100
+#EXTINF:-1 channel-id="5101" channel-number="5101" tvg-name="Unknown",5101 Unknown
+http://192.168.70.254:5004/auto/v5101
+#EXTINF:-1 channel-id="5102" channel-number="5102" tvg-name="Unknown",5102 Unknown
+http://192.168.70.254:5004/auto/v5102
+#EXTINF:-1 channel-id="5103" channel-number="5103" tvg-name="Unknown",5103 Unknown
+http://192.168.70.254:5004/auto/v5103
+#EXTINF:-1 channel-id="5104" channel-number="5104" tvg-name="Unknown",5104 Unknown
+http://192.168.70.254:5004/auto/v5104
+#EXTINF:-1 channel-id="5105" channel-number="5105" tvg-name="Unknown",5105 Unknown
+http://192.168.70.254:5004/auto/v5105
+#EXTINF:-1 channel-id="5106" channel-number="5106" tvg-name="Unknown",5106 Unknown
+http://192.168.70.254:5004/auto/v5106
+#EXTINF:-1 channel-id="5107" channel-number="5107" tvg-name="Unknown",5107 Unknown
+http://192.168.70.254:5004/auto/v5107
+#EXTINF:-1 channel-id="5108" channel-number="5108" tvg-name="Unknown",5108 Unknown
+http://192.168.70.254:5004/auto/v5108
+#EXTINF:-1 channel-id="5109" channel-number="5109" tvg-name="Unknown",5109 Unknown
+http://192.168.70.254:5004/auto/v5109
+#EXTINF:-1 channel-id="5110" channel-number="5110" tvg-name="Unknown",5110 Unknown
+http://192.168.70.254:5004/auto/v5110
+#EXTINF:-1 channel-id="5111" channel-number="5111" tvg-name="Unknown",5111 Unknown
+http://192.168.70.254:5004/auto/v5111
+#EXTINF:-1 channel-id="5112" channel-number="5112" tvg-name="Unknown",5112 Unknown
+http://192.168.70.254:5004/auto/v5112
+#EXTINF:-1 channel-id="5113" channel-number="5113" tvg-name="Unknown",5113 Unknown
+http://192.168.70.254:5004/auto/v5113
+#EXTINF:-1 channel-id="5114" channel-number="5114" tvg-name="Unknown",5114 Unknown
+http://192.168.70.254:5004/auto/v5114
+#EXTINF:-1 channel-id="5115" channel-number="5115" tvg-name="Unknown",5115 Unknown
+http://192.168.70.254:5004/auto/v5115
+#EXTINF:-1 channel-id="5116" channel-number="5116" tvg-name="Unknown",5116 Unknown
+http://192.168.70.254:5004/auto/v5116
+#EXTINF:-1 channel-id="5117" channel-number="5117" tvg-name="Unknown",5117 Unknown
+http://192.168.70.254:5004/auto/v5117
+#EXTINF:-1 channel-id="5118" channel-number="5118" tvg-name="Unknown",5118 Unknown
+http://192.168.70.254:5004/auto/v5118
+#EXTINF:-1 channel-id="5203" channel-number="5203" tvg-name="Unknown",5203 Unknown
+http://192.168.70.254:5004/auto/v5203
+#EXTINF:-1 channel-id="5204" channel-number="5204" tvg-name="Unknown",5204 Unknown
+http://192.168.70.254:5004/auto/v5204
+#EXTINF:-1 channel-id="5205" channel-number="5205" tvg-name="Unknown",5205 Unknown
+http://192.168.70.254:5004/auto/v5205
+#EXTINF:-1 channel-id="5206" channel-number="5206" tvg-name="Unknown",5206 Unknown
+http://192.168.70.254:5004/auto/v5206
+#EXTINF:-1 channel-id="5207" channel-number="5207" tvg-name="Unknown",5207 Unknown
+http://192.168.70.254:5004/auto/v5207
+#EXTINF:-1 channel-id="5208" channel-number="5208" tvg-name="Unknown",5208 Unknown
+http://192.168.70.254:5004/auto/v5208
+#EXTINF:-1 channel-id="5209" channel-number="5209" tvg-name="Unknown",5209 Unknown
+http://192.168.70.254:5004/auto/v5209
+#EXTINF:-1 channel-id="5210" channel-number="5210" tvg-name="Unknown",5210 Unknown
+http://192.168.70.254:5004/auto/v5210
 
 
 
