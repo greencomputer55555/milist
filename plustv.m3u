@@ -1,258 +1,255 @@
 #EXTM3U
-		
-#EXTINF:-1, LAS ESTRELLAS		
-http://192.168.70.252:5004/auto/v5086		
-#EXTINF:-1, LAS ESTRELLAS -2H		
-http://192.168.70.252:5004/auto/v5087		
-#EXTINF:-1, AZTECA UNO		
-http://192.168.70.252:5004/auto/v5088		
-#EXTINF:-1, AZTECA CORAZON		
-http://192.168.70.252:5004/auto/v5089		
-#EXTINF:-1, TLNOVELAS		
-http://192.168.70.252:5004/auto/v5090		
-#EXTINF:-1, CANAL 5		
-http://192.168.70.252:5004/auto/v5091		
-#EXTINF:-1, AZTECA 7		
-http://192.168.70.252:5004/auto/v5092		
-#EXTINF:-1,		
-http://192.168.70.252:5004/auto/v5093		
-#EXTINF:-1, UNICABLE		
-http://192.168.70.252:5004/auto/v5094		
-#EXTINF:-1, TELEMUNDO		
-http://192.168.70.252:5004/auto/v5095		
-#EXTINF:-1, PASIONES		
-http://192.168.70.252:5004/auto/v5096		
-#EXTINF:-1, IMAGEN TV		
-http://192.168.70.252:5004/auto/v5097		
-#EXTINF:-1, TV SUR		
-http://192.168.70.252:5004/auto/v5098		
-#EXTINF:-1, CANAL 10 CHIAPAS		
-http://192.168.70.252:5004/auto/v5099		
-#EXTINF:-1, CANAL 3		
-http://192.168.70.252:5004/auto/v5100		
-#EXTINF:-1, HOLA TV		
-http://192.168.70.252:5004/auto/v5101		
-#EXTINF:-1, A MAS		
-http://192.168.70.252:5004/auto/v5102		
-#EXTINF:-1, CANAL ONCE		
-http://192.168.70.252:5004/auto/v5103		
-#EXTINF:-1, CANAL 22		
-http://192.168.70.252:5004/auto/v5104		
-#EXTINF:-1, TV UNAM		
-http://192.168.70.252:5004/auto/v5105		
-#EXTINF:-1, UNIVERSAL REALITY		
-http://192.168.70.252:5004/auto/v5106		
-#EXTINF:-1, STAR 12		
-http://192.168.70.252:5004/auto/v5107		
-#EXTINF:-1, T.A		
-http://192.168.70.252:5004/auto/v5108		
-#EXTINF:-1, CORAL TV		
-http://192.168.70.252:5004/auto/v5109		
-#EXTINF:-1, T11		
-http://192.168.70.252:5004/auto/v5110		
-#EXTINF:-1, TELEMICRO INTERNACIONAL		
-http://192.168.70.252:5004/auto/v5111		
-#EXTINF:-1, MILENIO NOTICIAS		
-http://192.168.70.252:5004/auto/v5112		
-#EXTINF:-1, CNN		
-http://192.168.70.252:5004/auto/v5113		
-#EXTINF:-1, FORO TV		
-http://192.168.70.252:5004/auto/v5114		
-#EXTINF:-1, LATAM RURAL		
-http://192.168.70.252:5004/auto/v5115		
-#EXTINF:-1, FORMULA TV		
-http://192.168.70.252:5004/auto/v5116		
-#EXTINF:-1, CANAL 6		
-http://192.168.70.252:5004/auto/v5117		
-#EXTINF:-1, CANL 14		
-http://192.168.70.252:5004/auto/v5118		
-#EXTINF:-1, DISTRITO COMEDIA		
-http://192.168.70.252:5004/auto/v5119		
-#EXTINF:-1, SONY CHANNEL		
-http://192.168.70.252:5004/auto/v5120		
-#EXTINF:-1, AXN		
-http://192.168.70.252:5004/auto/v5121		
-#EXTINF:-1, TNT SERIES		
-http://192.168.70.252:5004/auto/v5122		
-#EXTINF:-1, UNIVERSAL TV		
-http://192.168.70.252:5004/auto/v5123		
-#EXTINF:-1, COMEDY CENTRAL		
-http://192.168.70.252:5004/auto/v5124		
-#EXTINF:-1, UNIVISION		
-http://192.168.70.252:5004/auto/v5125		
-#EXTINF:-1, FX		
-http://192.168.70.252:5004/auto/v5126		
-#EXTINF:-1, eE		
-http://192.168.70.252:5004/auto/v5127		
-#EXTINF:-1, SEMILLITAS		
-http://192.168.70.252:5004/auto/v5128		
-#EXTINF:-1, ONCE NIÑOS		
-http://192.168.70.252:5004/auto/v5129		
-#EXTINF:-1, CARTOONITO		
-http://192.168.70.252:5004/auto/v5130		
-#EXTINF:-1, NICK		
-http://192.168.70.252:5004/auto/v5131		
-#EXTINF:-1, NICK JR		
-http://192.168.70.252:5004/auto/v5132		
-#EXTINF:-1, TOONCAST		
-http://192.168.70.252:5004/auto/v5133		
-#EXTINF:-1, BITME		
-http://192.168.70.252:5004/auto/v5134		
-#EXTINF:-1, DISNEY JR		
-http://192.168.70.252:5004/auto/v5135		
-#EXTINF:-1, DISCOVERY KIDS		
-http://192.168.70.252:5004/auto/v5136		
-#EXTINF:-1, ADULT SWIN		
-http://192.168.70.252:5004/auto/v5137		
-#EXTINF:-1, BANDAMAX		
-http://192.168.70.252:5004/auto/v5138		
-#EXTINF:-1, TELERITMO		
-http://192.168.70.252:5004/auto/v5139		
-#EXTINF:-1, TELEHIT MUSICA		
-http://192.168.70.252:5004/auto/v5140		
-#EXTINF:-1, TELEHIT		
-http://192.168.70.252:5004/auto/v5141		
-#EXTINF:-1, D PELICULA		
-http://192.168.70.252:5004/auto/v5142		
-#EXTINF:-1, CINE MEXICANO		
-http://192.168.70.252:5004/auto/v5143		
-#EXTINF:-1, CINE LATINO		
-http://192.168.70.252:5004/auto/v5144		
-#EXTINF:-1, MC		
-http://192.168.70.252:5004/auto/v5145		
-#EXTINF:-1, MP		
-http://192.168.70.252:5004/auto/v5146		
-#EXTINF:-1, GOLDEN 		
-http://192.168.70.252:5004/auto/v5147		
-#EXTINF:-1, GOLDEN EDGE		
-http://192.168.70.252:5004/auto/v5148		
-#EXTINF:-1, TNT		
-http://192.168.70.252:5004/auto/v5149		
-#EXTINF:-1, CINEMAX		
-http://192.168.70.252:5004/auto/v5150		
-#EXTINF:-1, WB TV		
-http://192.168.70.252:5004/auto/v5151		
-#EXTINF:-1, DHE		
-http://192.168.70.252:5004/auto/v5152		
-#EXTINF:-1, STAR CHANNEL		
-http://192.168.70.252:5004/auto/v5153		
-#EXTINF:-1, TCM		
-http://192.168.70.252:5004/auto/v5154		
-#EXTINF:-1, KANAL D DRAMA		
-http://192.168.70.252:5004/auto/v5155		
-#EXTINF:-1, AMC		
-http://192.168.70.252:5004/auto/v5156		
-#EXTINF:-1, PANICO		
-http://192.168.70.252:5004/auto/v5157		
-#EXTINF:-1, SPACE		
-http://192.168.70.252:5004/auto/v5158		
-#EXTINF:-1, AMC		
-http://192.168.70.252:5004/auto/v5159		
-#EXTINF:-1, EURO CHANNEL		
-http://192.168.70.252:5004/auto/v5160		
-#EXTINF:-1, TUDN		
-http://192.168.70.252:5004/auto/v5161		
-#EXTINF:-1, ADRENALINA SPORT		
-http://192.168.70.252:5004/auto/v5162		
-#EXTINF:-1, ANULAR		
-http://192.168.70.252:5004/auto/v5163		
-#EXTINF:-1, FOX DEPORTES		
-http://192.168.70.252:5004/auto/v5164		
-#EXTINF:-1, FOX VIVO		
-http://192.168.70.252:5004/auto/v5165		
-#EXTINF:-1, ESPN		
-http://192.168.70.252:5004/auto/v5166		
-#EXTINF:-1,ESPN 2		
-http://192.168.70.252:5004/auto/v5167		
-#EXTINF:-1, ESPN 3		
-http://192.168.70.252:5004/auto/v5168		
-#EXTINF:-1, FOX SPORTS 2		
-http://192.168.70.252:5004/auto/v5169		
-#EXTINF:-1, FOX SPORTS		
-http://192.168.70.252:5004/auto/v5170		
-#EXTINF:-1, FOX SPORTS 3		
-http://192.168.70.252:5004/auto/v5171		
-#EXTINF:-1, ESPN 4		
-http://192.168.70.252:5004/auto/v5172		
-#EXTINF:-1, CLARO SPORTS		
-http://192.168.70.252:5004/auto/v5173		
-#EXTINF:-1, CLARO SPORTS 2		
-http://192.168.70.252:5004/auto/v5174		
-#EXTINF:-1, FOX VIVO 3		
-http://192.168.70.252:5004/auto/v5175		
-#EXTINF:-1, PASIONES		
-http://192.168.70.252:5004/auto/v5176		
-#EXTINF:-1, BL  TV		
-http://192.168.70.252:5004/auto/v5177		
-#EXTINF:-1, DISCOVERY CHANNEL		
-http://192.168.70.252:5004/auto/v5178		
-#EXTINF:-1, ANIMAL PLANET		
-http://192.168.70.252:5004/auto/v5179		
-#EXTINF:-1, DISCOVERY ID		
-http://192.168.70.252:5004/auto/v5180		
-#EXTINF:-1, TLC		
-http://192.168.70.252:5004/auto/v5181		
-#EXTINF:-1, LIFE TIME		
-http://192.168.70.252:5004/auto/v5182		
-#EXTINF:-1, iE		
-http://192.168.70.252:5004/auto/v5183		
-#EXTINF:-1, DISCOVERY WORLD		
-http://192.168.70.252:5004/auto/v5184		
-#EXTINF:-1, NATGEO		
-http://192.168.70.252:5004/auto/v5185		
-#EXTINF:-1, DISCOVERY TURBO		
-http://192.168.70.252:5004/auto/v5186		
-#EXTINF:-1, HISTORY		
-http://192.168.70.252:5004/auto/v5187		
-#EXTINF:-1, HISTORY 2		
-http://192.168.70.252:5004/auto/v5188		
-#EXTINF:-1, DISCOVERY THEATER		
-http://192.168.70.252:5004/auto/v5189		
-#EXTINF:-1, SUN		
-http://192.168.70.252:5004/auto/v5190		
-#EXTINF:-1,7A		
-http://192.168.70.252:5004/auto/v5191		
-#EXTINF:-1,		
-http://192.168.70.252:5004/auto/v5192		
-#EXTINF:-1,		
-http://192.168.70.252:5004/auto/v5193		
-#EXTINF:-1, CHAPIN TV		
-http://192.168.70.252:5004/auto/v5194		
-#EXTINF:-1, A&E		
-http://192.168.70.252:5004/auto/v5195		
-#EXTINF:-1, h&h		
-http://192.168.70.252:5004/auto/v5196		
-#EXTINF:-1, UNIVERSAL PREMIERE		
-http://192.168.70.252:5004/auto/v5197		
-#EXTINF:-1, CINE CANAL		
-http://192.168.70.252:5004/auto/v5198		
-#EXTINF:-1, HBO XTREME		
-http://192.168.70.252:5004/auto/v5199		
-#EXTINF:-1, HBO FAMILY		
-http://192.168.70.252:5004/auto/v5200		
-#EXTINF:-1, HBO PLUS		
-http://192.168.70.252:5004/auto/v5201		
-#EXTINF:-1, AMC		
-http://192.168.70.252:5004/auto/v5202		
-#EXTINF:-1, CINE PREMIUM		
-http://192.168.70.252:5004/auto/v5203		
-#EXTINF:-1, hTV		
-http://192.168.70.252:5004/auto/v5204		
-#EXTINF:-1, CONCERT TV		
-http://192.168.70.252:5004/auto/v5205		
-#EXTINF:-1, SBN GLOBAL		
-http://192.168.70.252:5004/auto/v5206		
-#EXTINF:-1, ENLACE		
-http://192.168.70.252:5004/auto/v5207		
-#EXTINF:-1, 3ABN		
-http://192.168.70.252:5004/auto/v5208		
-#EXTINF:-1, ESNE SEMBRADOR		
-http://192.168.70.252:5004/auto/v5209		
-#EXTINF:-1, MARIA VISION		
-http://192.168.70.252:5004/auto/v5210		
-#EXTINF:-1, EWTN		
-http://192.168.70.252:5004/auto/v5211		
 
+#EXTINF:-1 channel-id="5084" channel-number="5084" tvg-name="LAS ESTRELLAS",5084 LAS ESTRELLAS
+http://192.168.70.254:5004/auto/v5084
+#EXTINF:-1 channel-id="5085" channel-number="5085" tvg-name="LAS ESTRELLAS -2H",5085 LAS ESTRELLAS -2H
+http://192.168.70.254:5004/auto/v5085
+#EXTINF:-1 channel-id="5086" channel-number="5086" tvg-name="AZTECA UNO",5086 AZTECA UNO
+http://192.168.70.254:5004/auto/v5086
+#EXTINF:-1 channel-id="5087" channel-number="5087" tvg-name="AZTECA CORAZON",5087 AZTECA CORAZON
+http://192.168.70.254:5004/auto/v5087
+#EXTINF:-1 channel-id="5088" channel-number="5088" tvg-name="TLNOVELAS",5088 TLNOVELAS
+http://192.168.70.254:5004/auto/v5088
+#EXTINF:-1 channel-id="5089" channel-number="5089" tvg-name="CANAL 5",5089 CANAL 5
+http://192.168.70.254:5004/auto/v5089
+#EXTINF:-1 channel-id="5090" channel-number="5090" tvg-name="AZTECA 7",5090 AZTECA 7
+http://192.168.70.254:5004/auto/v5090
+#EXTINF:-1 channel-id="5091" channel-number="5091" tvg-name="CANAL NUEVE",5091 CANAL NUEVE
+http://192.168.70.254:5004/auto/v5091
+#EXTINF:-1 channel-id="5092" channel-number="5092" tvg-name="UNICABLE",5092 UNICABLE
+http://192.168.70.254:5004/auto/v5092
+#EXTINF:-1 channel-id="5093" channel-number="5093" tvg-name="TELEMUNDO",5093 TELEMUNDO
+http://192.168.70.254:5004/auto/v5093
+#EXTINF:-1 channel-id="5094" channel-number="5094" tvg-name="PASIONES",5094 PASIONES
+http://192.168.70.254:5004/auto/v5094
+#EXTINF:-1 channel-id="5095" channel-number="5095" tvg-name="IMAGEN TV",5095 IMAGEN TV
+http://192.168.70.254:5004/auto/v5095
+#EXTINF:-1 channel-id="5096" channel-number="5096" tvg-name="TV SUR",5096 TV SUR
+http://192.168.70.254:5004/auto/v5096
+#EXTINF:-1 channel-id="5097" channel-number="5097" tvg-name="CANAL 10 CHIAPAS",5097 CANAL 10 CHIAPAS
+http://192.168.70.254:5004/auto/v5097
+#EXTINF:-1 channel-id="5098" channel-number="5098" tvg-name="CANAL 3",5098 CANAL 3
+http://192.168.70.254:5004/auto/v5098
+#EXTINF:-1 channel-id="5099" channel-number="5099" tvg-name="HOLA TV",5099 HOLA TV
+http://192.168.70.254:5004/auto/v5099
+#EXTINF:-1 channel-id="5100" channel-number="5100" tvg-name="A MAS",5100 A MAS
+http://192.168.70.254:5004/auto/v5100
+#EXTINF:-1 channel-id="5101" channel-number="5101" tvg-name="CANAL ONCE",5101 CANAL ONCE
+http://192.168.70.254:5004/auto/v5101
+#EXTINF:-1 channel-id="5102" channel-number="5102" tvg-name="CANAL 22",5102 CANAL 22
+http://192.168.70.254:5004/auto/v5102
+#EXTINF:-1 channel-id="5103" channel-number="5103" tvg-name="TV UNAM",5103 TV UNAM
+http://192.168.70.254:5004/auto/v5103
+#EXTINF:-1 channel-id="5104" channel-number="5104" tvg-name="UNIVERSAL REALITY",5104 UNIVERSAL REALITY
+http://192.168.70.254:5004/auto/v5104
+#EXTINF:-1 channel-id="5105" channel-number="5105" tvg-name="STAR 12",5105 STAR 12
+http://192.168.70.254:5004/auto/v5105
+#EXTINF:-1 channel-id="5106" channel-number="5106" tvg-name="T.A",5106 T.A
+http://192.168.70.254:5004/auto/v5106
+#EXTINF:-1 channel-id="5107" channel-number="5107" tvg-name="CORAL TV",5107 CORAL TV
+http://192.168.70.254:5004/auto/v5107
+#EXTINF:-1 channel-id="5108" channel-number="5108" tvg-name="T11",5108 T11
+http://192.168.70.254:5004/auto/v5108
+#EXTINF:-1 channel-id="5109" channel-number="5109" tvg-name="TELEMICRO INTERNACIONAL",5109 TELEMICRO INTERNACIONAL
+http://192.168.70.254:5004/auto/v5109
+#EXTINF:-1 channel-id="5110" channel-number="5110" tvg-name="MILENIO NOTICIAS",5110 MILENIO NOTICIAS
+http://192.168.70.254:5004/auto/v5110
+#EXTINF:-1 channel-id="5111" channel-number="5111" tvg-name="CNN",5111 CNN
+http://192.168.70.254:5004/auto/v5111
+#EXTINF:-1 channel-id="5112" channel-number="5112" tvg-name="FORO TV",5112 FORO TV
+http://192.168.70.254:5004/auto/v5112
+#EXTINF:-1 channel-id="5113" channel-number="5113" tvg-name="LATAM RURAL",5113 LATAM RURAL
+http://192.168.70.254:5004/auto/v5113
+#EXTINF:-1 channel-id="5114" channel-number="5114" tvg-name="FORMULA TV",5114 FORO TV
+http://192.168.70.254:5004/auto/v5114
+#EXTINF:-1 channel-id="5115" channel-number="5115" tvg-name="CANAL 6",5115 CANAL 6
+http://192.168.70.254:5004/auto/v5115
+#EXTINF:-1 channel-id="5116" channel-number="5116" tvg-name="CANL 14",5116 CANL 14
+http://192.168.70.254:5004/auto/v5116
+#EXTINF:-1 channel-id="5117" channel-number="5117" tvg-name="DISTRITO COMEDIA",5117 DISTRITO COMEDIA
+http://192.168.70.254:5004/auto/v5117
+#EXTINF:-1 channel-id="5118" channel-number="5118" tvg-name="SONY CHANNEL",5118 SONY CHANNEL
+http://192.168.70.254:5004/auto/v5118
+#EXTINF:-1 channel-id="5119" channel-number="5119" tvg-name="AXN",5119 AXN
+http://192.168.70.254:5004/auto/v5119
+#EXTINF:-1 channel-id="5120" channel-number="5120" tvg-name="TNT SERIES",5120 TNT SERIES
+http://192.168.70.254:5004/auto/v5120
+#EXTINF:-1 channel-id="5121" channel-number="5121" tvg-name="UNIVERSAL TV",5121 UNIVERSAL TV
+http://192.168.70.254:5004/auto/v5121
+#EXTINF:-1 channel-id="5122" channel-number="5122" tvg-name="COMEDY CENTRAL",5122 COMEDY CENTRAL
+http://192.168.70.254:5004/auto/v5122
+#EXTINF:-1 channel-id="5123" channel-number="5123" tvg-name="UNIVISION",5123 UNIVISION
+http://192.168.70.254:5004/auto/v5123
+#EXTINF:-1 channel-id="5124" channel-number="5124" tvg-name="FX",5124 FX
+http://192.168.70.254:5004/auto/v5124
+#EXTINF:-1 channel-id="5125" channel-number="5125" tvg-name="eE",5125 eE
+http://192.168.70.254:5004/auto/v5125
+#EXTINF:-1 channel-id="5126" channel-number="5126" tvg-name="SEMILLITAS",5126 SEMILLITAS
+http://192.168.70.254:5004/auto/v5126
+#EXTINF:-1 channel-id="5127" channel-number="5127" tvg-name="ONCE NIÑOS",5127 ONCE NIÑOS
+http://192.168.70.254:5004/auto/v5127
+#EXTINF:-1 channel-id="5128" channel-number="5128" tvg-name="CARTOONITO",5128 CARTOONITO
+http://192.168.70.254:5004/auto/v5128
+#EXTINF:-1 channel-id="5129" channel-number="5129" tvg-name="NICK",5129 NICK
+http://192.168.70.254:5004/auto/v5129
+#EXTINF:-1 channel-id="5130" channel-number="5130" tvg-name="NICK JR",5130 NICK JR
+http://192.168.70.254:5004/auto/v5130
+#EXTINF:-1 channel-id="5131" channel-number="5131" tvg-name="TOONCAST",5131 TOONCAST
+http://192.168.70.254:5004/auto/v5131
+#EXTINF:-1 channel-id="5132" channel-number="5132" tvg-name="BITME",5132 BITME
+http://192.168.70.254:5004/auto/v5132
+#EXTINF:-1 channel-id="5133" channel-number="5133" tvg-name="DISNEY JR",5133 DISNEY JR
+http://192.168.70.254:5004/auto/v5133
+#EXTINF:-1 channel-id="5134" channel-number="5134" tvg-name="DISCOVERY KIDS",5134 DISCOVERY KIDS
+http://192.168.70.254:5004/auto/v5134
+#EXTINF:-1 channel-id="5135" channel-number="5135" tvg-name="ADULT SWIN",5135 ADULT SWIN
+http://192.168.70.254:5004/auto/v5135
+#EXTINF:-1 channel-id="5136" channel-number="5136" tvg-name="BANDAMAX",5136 BANDAMAX
+http://192.168.70.254:5004/auto/v5136
+#EXTINF:-1 channel-id="5137" channel-number="5137" tvg-name="TELERITMO",5137 TELERITMO
+http://192.168.70.254:5004/auto/v5137
+#EXTINF:-1 channel-id="5138" channel-number="5138" tvg-name="TELEHIT MUSICA",5138 TELEHIT MUSICA
+http://192.168.70.254:5004/auto/v5138
+#EXTINF:-1 channel-id="5139" channel-number="5139" tvg-name="TELEHIT",5139 TELEHIT
+http://192.168.70.254:5004/auto/v5139
+#EXTINF:-1 channel-id="5140" channel-number="5140" tvg-name="D PELICULA",5140 D PELICULA
+http://192.168.70.254:5004/auto/v5140
+#EXTINF:-1 channel-id="5141" channel-number="5141" tvg-name="CINE MEXICANO",5141 CINE MEXICANO
+http://192.168.70.254:5004/auto/v5141
+#EXTINF:-1 channel-id="5142" channel-number="5142" tvg-name="CINE LATINO",5142 CINE LATINO
+http://192.168.70.254:5004/auto/v5142
+#EXTINF:-1 channel-id="5143" channel-number="5143" tvg-name="MC",5143 MC
+http://192.168.70.254:5004/auto/v5143
+#EXTINF:-1 channel-id="5144" channel-number="5144" tvg-name="MP",5144 MP
+http://192.168.70.254:5004/auto/v5144
+#EXTINF:-1 channel-id="5145" channel-number="5145" tvg-name="GOLDEN",5145 GOLDEN
+http://192.168.70.254:5004/auto/v5145
+#EXTINF:-1 channel-id="5146" channel-number="5146" tvg-name="GOLDEN EDGE",5146 GOLDEN EDGE
+http://192.168.70.254:5004/auto/v5146
+#EXTINF:-1 channel-id="5147" channel-number="5147" tvg-name="TNT",5147 TNT
+http://192.168.70.254:5004/auto/v5147
+#EXTINF:-1 channel-id="5148" channel-number="5148" tvg-name="CINEMAX",5148 CINEMAX
+http://192.168.70.254:5004/auto/v5148
+#EXTINF:-1 channel-id="5149" channel-number="5149" tvg-name="WB TV",5149 WB TV
+http://192.168.70.254:5004/auto/v5149
+#EXTINF:-1 channel-id="5150" channel-number="5150" tvg-name="DHE",5150 DHE
+http://192.168.70.254:5004/auto/v5150
+#EXTINF:-1 channel-id="5151" channel-number="5151" tvg-name="STAR CHANNEL",5151 STAR CHANNEL
+http://192.168.70.254:5004/auto/v5151
+#EXTINF:-1 channel-id="5152" channel-number="5152" tvg-name="TCM",5152 TCM
+http://192.168.70.254:5004/auto/v5152
+#EXTINF:-1 channel-id="5153" channel-number="5153" tvg-name="KANAL D DRAMA",5153 KANAL D DRAMA
+http://192.168.70.254:5004/auto/v5153
+#EXTINF:-1 channel-id="5154" channel-number="5154" tvg-name="AMC",5154 AMC
+http://192.168.70.254:5004/auto/v5154
+#EXTINF:-1 channel-id="5155" channel-number="5155" tvg-name="PANICO",5155 PANICO
+http://192.168.70.254:5004/auto/v5155
+#EXTINF:-1 channel-id="5156" channel-number="5156" tvg-name="SPACE",5156 SPACE
+http://192.168.70.254:5004/auto/v5156
+#EXTINF:-1 channel-id="5157" channel-number="5157" tvg-name="AMC",5157 AMC
+http://192.168.70.254:5004/auto/v5157
+#EXTINF:-1 channel-id="5158" channel-number="5158" tvg-name="EURO CHANNEL",5158 EURO CHANNEL
+http://192.168.70.254:5004/auto/v5158
+#EXTINF:-1 channel-id="5159" channel-number="5159" tvg-name="TUDN",5159 TUDN
+http://192.168.70.254:5004/auto/v5159
+#EXTINF:-1 channel-id="5160" channel-number="5160" tvg-name="ADRENALINA SPORT",5160 ADRENALINA SPORT
+http://192.168.70.254:5004/auto/v5160
+#EXTINF:-1 channel-id="5161" channel-number="5161" tvg-name="ANULAR",5161 ANULAR
+http://192.168.70.254:5004/auto/v5161
+#EXTINF:-1 channel-id="5162" channel-number="5162" tvg-name="FOX DEPORTES",5162 FOX DEPORTES
+http://192.168.70.254:5004/auto/v5162
+#EXTINF:-1 channel-id="5163" channel-number="5163" tvg-name="FOX VIVO",5163 FOX VIVO
+http://192.168.70.254:5004/auto/v5163
+#EXTINF:-1 channel-id="5164" channel-number="5164" tvg-name="ESPN",5164 ESPN
+http://192.168.70.254:5004/auto/v5164
+#EXTINF:-1 channel-id="5165" channel-number="5165" tvg-name="ESPN 2",5165 ESPN 2
+http://192.168.70.254:5004/auto/v5165
+#EXTINF:-1 channel-id="5166" channel-number="5166" tvg-name="ESPN 3",5166 ESPN 3
+http://192.168.70.254:5004/auto/v5166
+#EXTINF:-1 channel-id="5167" channel-number="5167" tvg-name="FOX SPORTS 2",5167 FOX SPORTS 2
+http://192.168.70.254:5004/auto/v5167
+#EXTINF:-1 channel-id="5168" channel-number="5168" tvg-name="FOX SPORTS",5168 FOX SPORTS
+http://192.168.70.254:5004/auto/v5168
+#EXTINF:-1 channel-id="5169" channel-number="5169" tvg-name="FOX SPORTS 3",5169 FOX SPORTS 3
+http://192.168.70.254:5004/auto/v5169
+#EXTINF:-1 channel-id="5170" channel-number="5170" tvg-name="ESPN 4",5170 ESPN 4
+http://192.168.70.254:5004/auto/v5170
+#EXTINF:-1 channel-id="5171" channel-number="5171" tvg-name="CLARO SPORTS",5171 CLARO SPORTS
+http://192.168.70.254:5004/auto/v5171
+#EXTINF:-1 channel-id="5172" channel-number="5172" tvg-name="CLARO SPORTS 2",5172 CLARO SPORTS 2
+http://192.168.70.254:5004/auto/v5172
+#EXTINF:-1 channel-id="5173" channel-number="5173" tvg-name="FOX VIVO 3",5173 FOX VIVO 3
+http://192.168.70.254:5004/auto/v5173
+#EXTINF:-1 channel-id="5174" channel-number="5174" tvg-name="PASIONES",5174 PASIONES
+http://192.168.70.254:5004/auto/v5174
+#EXTINF:-1 channel-id="5175" channel-number="5175" tvg-name="BL TV",5175 BL TV
+http://192.168.70.254:5004/auto/v5175
+#EXTINF:-1 channel-id="5176" channel-number="5176" tvg-name="DISCOVERY CHANNEL",5176 DISCOVERY CHANNEL
+http://192.168.70.254:5004/auto/v5176
+#EXTINF:-1 channel-id="5177" channel-number="5177" tvg-name="ANIMAL PLANET",5177 ANIMAL PLANET
+http://192.168.70.254:5004/auto/v5177
+#EXTINF:-1 channel-id="5178" channel-number="5178" tvg-name="DISCOVERY ID",5178 DISCOVERY ID
+http://192.168.70.254:5004/auto/v5178
+#EXTINF:-1 channel-id="5179" channel-number="5179" tvg-name="TLC",5179 TLC
+http://192.168.70.254:5004/auto/v5179
+#EXTINF:-1 channel-id="5180" channel-number="5180" tvg-name="LIFE TIME",5180 LIFE TIME
+http://192.168.70.254:5004/auto/v5180
+#EXTINF:-1 channel-id="5181" channel-number="5181" tvg-name="iE",5181 iE
+http://192.168.70.254:5004/auto/v5181
+#EXTINF:-1 channel-id="5182" channel-number="5182" tvg-name="DISCOVERY WORLD",5182 DISCOVERY WORLD
+http://192.168.70.254:5004/auto/v5182
+#EXTINF:-1 channel-id="5183" channel-number="5183" tvg-name="NATGEO",5183 NATGEO
+http://192.168.70.254:5004/auto/v5183
+#EXTINF:-1 channel-id="5184" channel-number="5184" tvg-name="DISCOVERY TURBO",5184 DISCOVERY TURBO
+http://192.168.70.254:5004/auto/v5184
+#EXTINF:-1 channel-id="5185" channel-number="5185" tvg-name="HISTORY",5185 HISTORY
+http://192.168.70.254:5004/auto/v5185
+#EXTINF:-1 channel-id="5186" channel-number="5186" tvg-name="HISTORY 2",5186 HISTORY 2
+http://192.168.70.254:5004/auto/v5186
+#EXTINF:-1 channel-id="5187" channel-number="5187" tvg-name="DISCOVERY THEATER",5187 DISCOVERY THEATER
+http://192.168.70.254:5004/auto/v5187
+#EXTINF:-1 channel-id="5188" channel-number="5188" tvg-name="SUN",5188 SUN
+http://192.168.70.254:5004/auto/v5188
+#EXTINF:-1 channel-id="5189" channel-number="5189" tvg-name="7A",5189 7A
+http://192.168.70.254:5004/auto/v5189
+#EXTINF:-1 channel-id="5190" channel-number="5190" tvg-name="Canal 127",5190 Canal 127
+http://192.168.70.254:5004/auto/v5190
+#EXTINF:-1 channel-id="5191" channel-number="5191" tvg-name="Canal 128",5191 Canal 128
+http://192.168.70.254:5004/auto/v5191
+#EXTINF:-1 channel-id="5192" channel-number="5192" tvg-name="CHAPIN TV",5192 CHAPIN TV
+http://192.168.70.254:5004/auto/v5192
+#EXTINF:-1 channel-id="5193" channel-number="5193" tvg-name="A&E",5193 A&E
+http://192.168.70.254:5004/auto/v5193
+#EXTINF:-1 channel-id="5194" channel-number="5194" tvg-name="h&h",5194 h&h
+http://192.168.70.254:5004/auto/v5194
+#EXTINF:-1 channel-id="5195" channel-number="5195" tvg-name="UNIVERSAL PREMIERE",5195 UNIVERSAL PREMIERE
+http://192.168.70.254:5004/auto/v5195
+#EXTINF:-1 channel-id="5196" channel-number="5196" tvg-name="CINE CANAL",5196 CINE CANAL
+http://192.168.70.254:5004/auto/v5196
+#EXTINF:-1 channel-id="5197" channel-number="5197" tvg-name="HBO XTREME",5197 HBO XTREME
+http://192.168.70.254:5004/auto/v5197
+#EXTINF:-1 channel-id="5198" channel-number="5198" tvg-name="HBO FAMILY",5198 HBO FAMILY
+http://192.168.70.254:5004/auto/v5198
+#EXTINF:-1 channel-id="5199" channel-number="5199" tvg-name="HBO PLUS",5199 HBO PLUS
+http://192.168.70.254:5004/auto/v5199
+#EXTINF:-1 channel-id="5200" channel-number="5200" tvg-name="AMC",5200 AMC
+http://192.168.70.254:5004/auto/v5200
+#EXTINF:-1 channel-id="5201" channel-number="5201" tvg-name="CINE PREMIUM",5201 CINE PREMIUM
+http://192.168.70.254:5004/auto/v5201
+#EXTINF:-1 channel-id="5202" channel-number="5202" tvg-name="hTV",5202 hTV
+http://192.168.70.254:5004/auto/v5202
+#EXTINF:-1 channel-id="5203" channel-number="5203" tvg-name="CONCERT TV",5203 CONCERT TV
+http://192.168.70.254:5004/auto/v5203
+#EXTINF:-1 channel-id="5204" channel-number="5204" tvg-name="SBN GLOBAL",5204 SBN GLOBAL
+http://192.168.70.254:5004/auto/v5204
+#EXTINF:-1 channel-id="5205" channel-number="5205" tvg-name="ENLACE",5205 ENLACE
+http://192.168.70.254:5004/auto/v5205
+#EXTINF:-1 channel-id="5206" channel-number="5206" tvg-name="3ABN",5206 3ABN
+http://192.168.70.254:5004/auto/v5206
+#EXTINF:-1 channel-id="5207" channel-number="5207" tvg-name="ESNE SEMBRADOR",5207 ESNE SEMBRADOR
+http://192.168.70.254:5004/auto/v5207
+#EXTINF:-1 channel-id="5208" channel-number="5208" tvg-name="MARIA VISION",5208 MARIA VISION
+http://192.168.70.254:5004/auto/v5208
 #EXTINF:-1, 24/7 SHOW LOONEY TOONS 2011
 http://192.168.70.253:80/play/_wr-DReosc8bjpOFbZrpguNN5F8DOK-eYSnDCuyaPaA/m3u8
 
